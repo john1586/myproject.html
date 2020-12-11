@@ -1,0 +1,29 @@
+<div id="container">
+  <article id="card">
+    <header>
+      <img
+       id="offwhite"    src="https://wallpapercave.com/wp/CgjGnw0.jpg" alt="">
+      <span id="offwhite" class="subhead">offwhite</span>
+    </header>
+    <img id="shoe" src="https://stockx.imgix.net/Nike-Air-Force-1-Low-Off-White-Black-White-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1603481985" alt="">
+    <section>
+      <div id="description">
+        <span id="retail" class="subhead">Retail price</span><span id="time" class="faded">170$</span>
+      </div>
+      <div id="location">
+        <img src="https://image.flaticon.com/icons/svg/64/64113.svg" alt="">
+        <span class="faded">North America</span>
+      </div>
+      <div id="tags">
+        <ul>
+          <li>hot right now</li>
+          <li>black</li>
+        </ul>
+      </div>
+    </section>
+    <footer>
+      <p>Description</p>
+      <p class="faded">Off-White is an italian luxury brand</p>
+    </footer>
+  </article>
+</div>
